@@ -18,9 +18,9 @@ In this repository, you'll discover a sleek and functional digital clock project
 
 📌 **Project Structure:**
 
-1. index.html - HTML file for the digital clock layout.
-2. style.css - CSS file for styling the digital clock.
-3. script.js - JavaScript file for clock functionality.
+1. DigitalClock.html - HTML file for the digital clock layout.
+2. DigitalClock.css - CSS file for styling the digital clock.
+3. DigitalClock.js - JavaScript file for clock functionality.
 
 Your feedback and contributions are highly appreciated. Let's continue to learn and build together!
 
